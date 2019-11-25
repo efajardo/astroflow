@@ -1,4 +1,4 @@
-FROM opensciencegrid/tensorflow-gpu:latest
+FROM opensciencegrid/osgvo-tensorflow-gpu
 
 MAINTAINER Edgar Fajardo <emfajard@ucsd.edu>
 
